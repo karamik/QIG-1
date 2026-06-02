@@ -130,7 +130,7 @@ We welcome experimental groups, quantum engineers, and theorists to join the **I
 - 📈 Numerical refinement of the RG flow for the 3D toric code.
 - 🔭 Extension to astrophysical signatures (fuzzy dark matter, LISA sidebands).
 
-**Contact:** Please open an Issue or Pull Request on this repository, or email [igd@quantumgravitylab.org](mailto:totalprotocol@proton.me).
+**Contact:** Please open an Issue or Pull Request on this repository, or email [totalprotocol](mailto:totalprotocol@proton.me).
 
 ---
 
